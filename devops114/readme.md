@@ -50,6 +50,12 @@ A Devops engineer role can vary on a number of factors however these are the mai
 	-Deployment: Uses configuration management software to automatically deploy updates and fixes into the production environment.
 
 	-Development: Develops, codes, builds, installs, configures, and maintains IT solutions.
+	
+	
+	
+	
+	
+	
 
 	
 What are the four pillars of Devops?
@@ -74,3 +80,10 @@ cd /	Move to the root directory
 sudo allows admin level
 mk dir makes new folder
 pwd reminds me where i am 
+
+![devops-image-3](https://user-images.githubusercontent.com/105853978/171037852-17180782-4a7d-4267-b82f-591bdfc60d3e.png)
+
+
+
+
+

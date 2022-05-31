@@ -58,12 +58,6 @@ A Devops engineer role can vary on a number of factors however these are the mai
 	
 
 	
-What are the four pillars of Devops?
-
-	- Continuous Planning 
-	- Continuous Developing
-	- Continuous Distributing
-	- continuous Sourcing
 
 
 

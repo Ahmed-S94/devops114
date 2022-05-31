@@ -53,9 +53,19 @@ A Devops engineer role can vary on a number of factors however these are the mai
 	
 	
 	
+	What are the four pillars of devops?
 	
+	Workflows and automation
+	Every software lifecycle should have a good workflow. It might follow industry best practices, and you might have some practices your organisation follows.
 	
+	Security and Compliance
+	An important part of software development is ensuring your product is secure and compliant. Secure in the way it runs, stores information, and handles personal information.
 	
+	Collaboration
+	This is an important part of any workplace. You need to be able to collaborate and communicate effectively with your team, and the border company.
+	
+	Continuous improvement
+	Always be thinking about how your product could be improved. Not just improvement for the customer, but also improvement on the software side. How can you make the code better, cleaner, faster.
 
 	
 

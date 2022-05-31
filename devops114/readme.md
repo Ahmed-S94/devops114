@@ -80,6 +80,12 @@ cd /	Move to the root directory
 sudo allows admin level
 mk dir makes new folder
 pwd reminds me where i am 
+mv test.txt devops - moves the files
+
+
+
+
+
 
 ![devops-image-3](https://user-images.githubusercontent.com/105853978/171037852-17180782-4a7d-4267-b82f-591bdfc60d3e.png)
 

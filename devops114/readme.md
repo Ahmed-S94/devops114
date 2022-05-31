@@ -31,7 +31,7 @@ Devops is a combination of two departments; Development and operations. The over
 
 What are the Benefits of Devops?
 
-	-Improved Communication: When different teams or departments work on a project, communication is key to its success. But people often get caught up in their day-to-day tasks and communications start to slip through the cracks. By using DevOps and cloud computing, teams can keep everyone in the loop and things get done quicker.
+	-Improved Communication: When different teams or departments work on a project, communication is key to its success. But people often get caught up in their day-to-day tasks and communications start to slip through the cracks. By using DevOps, teams can keep everyone in the loop and things get done quicker.
 
 	- Scalability: Organizations can more easily scale their operations by Devops. This is because software testers and developers can quickly add or remove resources as needed in order to respond to changes in demand.
 

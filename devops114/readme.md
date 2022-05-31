@@ -23,7 +23,7 @@
 
 What is DevOps?
 
-Devops is a combination of two departments; Development and operations. The overall workflow emphasises the communication between both the IT professionals managing the environment and the software developers. Automation is essential as a DevOps engineer however fundamentally Devops involves combining development and operations into a singular continuous process.
+Devops is a combination of two departments; Development and operations. The overall workflow emphasises the communication between both the IT professionals managing the environment and the software developers. Automation is essential as a DevOps engineer however fundamentally Devops involves combining development and operations into a singular continuous process to alleviate the blame culture that used to exist.
 
 
 

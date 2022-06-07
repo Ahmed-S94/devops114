@@ -1,14 +1,20 @@
 Vagrant.configure("2") do |config|
 
-  config.vm.box = "ubuntu/xenial64"
- 
-  # add a private network between localhost & VM using ip
-  config.vm.network "private_network", ip: "192.168.10.10:60"
+  config.vm.define "app" do |app|
+   
+   app.vm.box = "ubuntu/xenial64"
+   app.vm.network "private_network", ip: "192.168.10.10"
+	app.vm.provision "file", source: "~/Users/ahmed/devops114/newvagrant/environment", destination: "$HOME/"	
+	app.config.vm.provision "shell", path: "environment/provision.sh"
 
-  # copy folder
-  config.vm.synced_folder ".", "/home/newvagrant"
+  end
   
-  # provisisioning
+  config.vm.define "db" do |db|
+   db.vm.box = "ubuntu/xenial64"
+   db.vm.network "private_network", ip: "192.168.10.11"
+
+  end
+  # Provisisioning
   config.vm.provision "shell", path: "environment/provision.sh"
 
 end

@@ -106,8 +106,7 @@ There are many benefits of cloud computing here are a few;
 ### Monolithic architechture 
 Monolithic architecture is designed to be self-contained, wherein the program's components or functions are tightly coupled. In a monolithic architecture, each component and its associated components must all be present for code to be executed or compiled and for the software to run. 
 ￼
-image.png
-
+https://miro.medium.com/max/714/1*F6y9GeBZwaOzNYnToahfQw.png
 
 ###Capex vs opex 
 
@@ -123,7 +122,6 @@ A collection of data centres are referred to as an availability zone and a combi
 When decided how many Az’s you’d like in which regions the two main factors are ’Scalability and Availability’.
 ￼
 https://cloudacademy.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-05-at-13.13.38.png
-
 
 
 ### explanation on the AWS Features

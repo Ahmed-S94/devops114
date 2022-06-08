@@ -91,4 +91,40 @@ mv
 - sudo systemctl status nginx / checks status of nginx
 - config.vm.synced_folder ".", "/home/????????"
 - 
+### WHAT IS CLOUD COMPUTING?
+Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).
+
+### What are the benefits and why we would use them?
+There are many benefits of cloud computing here are a few;
+- Reduced IT costs
+- Scalability
+- Flexibility
+- Availability 
+
+
+
+### Monolithic architechture 
+Monolithic architecture is designed to be self-contained, wherein the program's components or functions are tightly coupled. In a monolithic architecture, each component and its associated components must all be present for code to be executed or compiled and for the software to run. 
+￼
+https://henriquesd.medium.com/monolithic-microservices-architecture-239e8799d3e1
+
+
+###Capex vs opex 
+
+Capital expenditure is the amount of capital that will be at expense at the start or beginning of the business.
+
+Operational expenditure is the amount of expenditure that is lost during the running of the business. (Any expense during operation of the business.
+
+
+### Explaining an AWS architecture
+One the smallest scale you have the data centres which is where the data is physically stored.
+A collection of data centres are referred to as an availability zone and a combination of availability zones is referred to as a region. 
+
+When decided how many Az’s you’d like in which regions the two main factors are ’Scalability and Availability’.
+￼
+https://cloudacademy.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-05-at-13.13.38.png
+
+
+
+### explanation on the AWS Features
 
